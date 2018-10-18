@@ -219,7 +219,7 @@ public class Client {
                             break;
 
                         case "indexWrong":
-                            System.out.println("请输入正确序号");
+                            System.out.println("请输入正确序号！");
                             break;
                     }
                 }

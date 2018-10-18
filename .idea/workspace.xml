@@ -9,7 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="e9a5d3b5-b6ae-430e-91c6-571505dba791" name="Default" comment="超市" />
+    <list default="true" readonly="true" id="e9a5d3b5-b6ae-430e-91c6-571505dba791" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/..///////////////family_Balance_Management/target/" />
@@ -98,8 +98,8 @@
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Supermarket/src/main/java/com/iss/socket/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="168" column="23" selection-start-line="168" selection-start-column="23" selection-end-line="168" selection-end-column="23" />
+            <state relative-caret-position="224">
+              <caret line="172" column="14" lean-forward="true" selection-start-line="172" selection-start-column="14" selection-end-line="172" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -443,7 +443,7 @@
       <workItem from="1539849859016" duration="12000" />
       <workItem from="1539849978017" duration="494000" />
       <workItem from="1539851094118" duration="438000" />
-      <workItem from="1539851589804" duration="60000" />
+      <workItem from="1539851589804" duration="302000" />
     </task>
     <task id="LOCAL-00001">
       <created>1539135401459</created>
@@ -480,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539565231791</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="超市">
+      <created>1539851760886</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539851760886</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -501,7 +508,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119700000" />
+    <option name="totallyTimeSpent" value="119942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,7 +520,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32733223" />
@@ -524,7 +532,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.5294118" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49924356" weight="0.32733223" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.49924356" visible="true" weight="0.32569557" />
       <window_info anchor="bottom" x="12" y="220" width="1322" height="464" id="Run" order="5" sideWeight="0.49848714" weight="0.66993463" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info id="Capture Tool" order="6" />
@@ -559,7 +567,8 @@
     <MESSAGE value="登录，注册功能" />
     <MESSAGE value="商品增删改查功能" />
     <MESSAGE value="基本功能完毕，只剩下客户端和服务器的模拟" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="超市" />
+    <option name="LAST_COMMIT_MESSAGE" value="超市" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -929,8 +938,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Supermarket/src/main/java/com/iss/socket/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="168" column="23" selection-start-line="168" selection-start-column="23" selection-end-line="168" selection-end-column="23" />
+        <state relative-caret-position="224">
+          <caret line="172" column="14" lean-forward="true" selection-start-line="172" selection-start-column="14" selection-end-line="172" selection-end-column="14" />
         </state>
       </provider>
     </entry>
